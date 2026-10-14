@@ -1,4 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-29W0RETE5J"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-29W0RETE5J');
+  </script>
 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO Title -->
+  <title>Chapter 2 -- Tipping Points | Global Warming - The Destruction of Babylon</title>
+
+  <!-- Description -->
+  <meta name="description" content="Chapter 2 - Tipping Points.  This chapter discusses the concept of tipping points in climate systems, explaining how crossing these thresholds leads to cascading effects and self-amplifying changes in the environment. It emphasizes the interconnectedness of Earth's systems and the dangers posed by multiple tipping points interacting.">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/chapter2_tipping-points.html">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="main.css">
+
+  <!-- OpenGraph -->
+  <meta property="og:title" content="Chapter 1 — The Worldwide System | Global Warming - The Destruction of Babylon">
+  <meta property="og:description" content="Chapter 1: The Worldwide System (The Anatomy of Babylon) — defining modern Babylon as a globalized system of idolatry, lawlessness, and worship of human works.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/chapter1_babylon.html">
+  <meta property="og:site_name" content="Global Warming - The Destruction of Babylon">
+  <meta property="og:image" content="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/frontcover.jpeg">
+  <meta property="og:image:alt" content="Front cover — Global Warming - The Destruction of Babylon">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Chapter 1 — The Worldwide System | Global Warming - The Destruction of Babylon">
+  <meta name="twitter:description" content="Chapter 1: The Worldwide System — defining modern Babylon as a globalized system of idolatry, lawlessness, and worship of human works.">
+  <meta name="twitter:image" content="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/frontcover.jpeg">
+
+  <!-- Structured Data: Chapter as an Article, partOf the Book -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Chapter 1 — The Worldwide System (The Anatomy of Babylon)",
+    "description": "Defines Babylon as a borderless globalized system of idolatry, self-deification, and structural rebellion against divine law.",
+    "author": {
+      "@type": "Person",
+      "name": "Raphael E. Asanti"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Raphael E. Asanti",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://raphaelasanti.github.io/global-warming-destruction-of-babylon/frontcover.jpeg"
+      }
+    },
+    "datePublished": "2026-01-01",
+    "inLanguage": "en",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://raphaelasanti.github.io/global-warming-destruction-of-babylon/chapter1_babylon.html"
+    },
+    "isPartOf": {
+      "@type": "Book",
+      "name": "Global Warming - The Destruction of Babylon",
+      "author": {
+        "@type": "Person",
+        "name": "Raphael E. Asanti"
+      },
+      "url": "https://raphaelasanti.github.io/global-warming-destruction-of-babylon/"
+    },
+    "image": "https://raphaelasanti.github.io/global-warming-destruction-of-babylon/frontcover.jpeg"
+  }
+  </script>
+
+  <script>
+    function toggleTextSize() {
+      document.body.classList.toggle('large-text');
+    }
+  </script>
+</head>
+<body>
+  <div class="top-bar">
+    <span class="book-title"><b><u>Global Warming - The Destruction of Babylon</u></b></span>
+    <div class="nav-left">
+      <label>Chapter:</label>
+      <select onchange="location.href=this.value;">
+        <option value="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/" >Front Cover</option>
+        <option value="authors-note.html">Author's Note</option>
+        <option value="introduction.html">Introduction</option>
+        <option value="chapter1_babylon.html">Chapter 1: The Worldwide System</option>
+        <option value="chapter2_tipping-points.html" selected>Chapter 2: Tipping Points</option>
+        <option value="chapter3_institutional-lag.html">Chapter 3: Institutional Lag</option>
+        <!-- other options omitted for brevity (keep consistent with index.html) -->
+      </select>
+            <a class="nav-button" href="chapter1_babylon.html">Previous</a>
+
+      <a class="nav-button" href="chapter3_institutional-lag.html">Next</a>
+      <button class="nav-button" onclick="toggleTextSize()">A+</button>
+    </div>
+
+    <div class="nav-right">
+      <span class="donation-note">Support the Author:</span>
+      <a class="donation-link" href="https://cash.app/$phirunltd" target="_blank">CashApp</a>
+      <a class="donation-link" href="https://phirun4.gumroad.com/l/zsmzjh" target="_blank">Gumroad</a>
+    </div>
+  </div>
+
+  <!-- Page Content -->
+  <div class="page-container">
 Chapter 3: The Institutional Lag (The Blindness of Consensual Science)
 
 
@@ -30,3 +144,14 @@ Climatologists, glaciologists, and marine biologists observe accelerating feedba
 While scripture contains no reference to modern academic structures, it is explicitly clear about the functional blind spot this lag creates.
 When Revelation 18:7-8 states that Babylon is absolutely certain she will see no mourning (Ou mē idō / "I shall by no means see") right before her structure is laid waste in a sudden window (En mia hēmera / "in a single day"), it is describing a civilization trapped in a false timeline.
 The modern world genuinely believes it has until 2050 or 2100 to mitigate global warming. It believes this because its official watchmen are trapped inside a slow, conservative, bureaucratic institution that is physically incapable of calculating an auto-executing reality in real time. The suddenness of the final collapse is not a supernatural trick; it is the inevitable mathematical consequence of a global system relying on a 20-year-old warning system while moving on an exponential curve.
+
+
+        </div>
+
+  <hr>
+  <footer class="copyright-footer">
+    © 2026 Raphael Asanti. All rights reserved.
+  </footer>
+</body>
+</html>
+
