@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-29W0RETE5J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-29W0RETE5J');
+</script>
+  <meta charset="UTF-8">
+
+  <!-- SEO Title -->
+  <title>Introduction | Global Warming - The Destruction of Babylon</title>
+
+  <!-- Mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="main.css">
+
+  <!-- Description (Expanded for Bing Quality Threshold) -->
+  <meta name="description" content="Introduction to the eBook Global Warming - The Destruction of Babylon by Raphael E. Asanti.  This page gives a brief explanation of the contents of the book itself.">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/introduction.html">
+
+  <!-- OpenGraph -->
+  <meta property="og:title" content="Introduction| Global Warming - The Destruction of Babylon">
+  <meta property="og:description"
+        content="Introduction to the eBook Global Warming - The Destruction of Babylon by Raphael E. Asanti.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/introduction.html">
+  <meta property="og:site_name" content="Introduction | Global Warming - The Destruction of Babylon">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Introduction | Global Warming - The Destruction of Babylon">
+  <meta name="twitter:description"
+        content="Introduction to the eBook Global Warming - The Destruction of Babylon by Raphael E. Asanti.">
+
+  
+    <!-- JSON-LD (Individual Book Chapter Schema with Parent Book Link) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": "Introduction",
+  "position": "2",
+  "url": "https://github.io/global-warming-destruction-of-babylon/introduction.html",
+  "description": "Introduction to the free eBook Global Warming - The Destruction of Babylon by Raphael E. Asanti.",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Global Warming - The Destruction of Babylon",
+    "url": "https://github.io/global-warming-destruction-of-babylon/",
+    "author": {
+      "@type": "Person",
+      "name": "Raphael E. Asanti"
+    }
+  }
+}
+</script>
+
+  <!-- Text Size Toggle -->
+  <script>
+    function toggleTextSize() {
+      document.body.classList.toggle('large-text');
+    }
+  </script>
+</head>
+
+
+<body>
+<div class="top-bar">
+<span class="book-title"><b><u>Global Warming - The Destruction of Babylon</u></b></span>
+  <div class="nav-left">
+    <label>Chapter:</label>
+   <select onchange="location.href=this.value;">
+  <option value="https://raphaelasanti.github.io/global-warming-destruction-of-babylon/">Front Cover</option>
+  <option value="authors-note.html">Author's Note</option>
+  <option value="introduction.html" selected>Introduction</option>
+        <option value="chapter1_babylon.html">Chapter 1: The Worldwide System</option>
+        <option value="chapter2_tipping-points.html">Chapter 2: Tipping Points</option>
+        <option value="chapter3_institutional-lag.html">Chapter 3: Institutional Lag</option>
+        <option value="chapter4_heat-domes.html">Chapter 4: Heat Domes</option>
+        <option value="chapter5_zombie-trees.html">Chapter 5: Zombie Trees</option>
+        <option value="chapter6_stagnant-seas.html">Chapter 6: Stagnant Seas</option>
+        <option value="chapter7_permafrost-fires.html">Chapter 7: Permafrost Fires</option>
+        <option value="chapter8_famine.html">Chapter 8: Famine</option>
+        <option value="chapter9_hubris.html">Chapter 9: Hubris</option>
+        <option value="chapter10_adversarial-rain.html">Chapter 10: Adversarial Rain</option>
+        <option value="chapter11_glacier-melt.html">Chapter 11: Glacier Melt</option>
+        <option value="chapter12_no-ports.html">Chapter 12: No Ports</option>
+        <option value="chapter13_no-wind.html">Chapter 13: No Wind</option>
+        <option value="chapter14_hol-chol.html">Chapter 14: Your Covenant</option>
+                       <option value="about.html">About The Author</option>
+
+    </select>
+     <a class="nav-button" href="authors-note.html">Previous</a>
+    <a class="nav-button" href="chapter1_babylon.html">Next</a>
+    <!-- NEW BUTTON -->
+    <button class="nav-button" onclick="toggleTextSize()">A+</button>
+  </div>
+
+  <div class="nav-right">
+      <span class="donation-note">Support the Author:</span>
+    <a class="donation-link" href="https://cash.app/$phirunltd" target="_blank">CashApp</a>
+    <a class="donation-link" href="https://phirun4.gumroad.com/l/zsmzjh" target="_blank">Gumroad</a>
+
+
+  </div>
+
+</div>
+  
+
+
+  <!-- Page Content -->
+  <div class="page-container">
+    <h1 class="chapter-title">Introduction: The Physics of the Prophetic Seal</h1>
+
+    <p class="epigraph">
+      “When a people turn their faces from their Creator, He withdraws the hand that fed them.”
+    </p>
+
+    <p>
+      The crisis we face is not finally a problem of technology or policy. It is a spiritual rupture. Modern civilization has substituted God's sustaining presence with human systems—wealth, infrastructure, and laws—and assumed those systems to be ultimate. That substitution is the root of what this book calls the destruction of Babylon: a society that has turned from God and now experiences the withdrawal of His sustaining blessing.
+    </p>
+
+    <p>
+      In the pages that follow, physical failures—heat, drought, flood, famine—are described not merely as environmental events but as consequences of a deeper moral and spiritual condition. The cosmos continues to obey the Creator's laws; when a nation or a culture rejects its Maker, the provision that once flowed through those laws is curtailed. What appears as "natural" calamity is in this account also a form of divine judgment and a call to return.
+    </p>
+
+    <div class="inset" id="overview">
+      <div class="inset-title">In this introduction</div>
+      <ul>
+        <li>Why Babylon is first a spiritual condition: turning away from God</li>
+        <li>How God's withdrawing of sustaining presence produces social and ecological collapse</li>
+        <li>Why judgment is both corrective and revealing</li>
+        <li>How biblical images in Revelation correspond to a world abandoned by its Creator</li>
+      </ul>
+    </div>
+    <div class="support-box" id="support">
+      <h3>Support the Author</h3>
+      <p>
+        My only income is voluntary donations.
+      </p>
+      <a class="support-button" href="https://cash.app/$phirunltd" target="_blank" rel="noopener noreferrer">
+        Donate
+      </a>
+      <a class="support-button" href="https://phirun4.gumroad.com/l/zsmzjh" target="_blank" rel="noopener noreferrer">
+        Gumroad
+      </a>
+      <div class="support-note">
+        Free reading remains available to all.
+      </div>
+    </div>
+    <p>
+      This book does not deny physics. It insists on it. But it insists more, arguing that the physical laws and planetary thresholds we discuss are themselves embedded within a moral order governed by God. When that order is broken—by collective pride, idolatry of power, or the worship of endless growth—the consequences are both material and spiritual.
+    </p>
+
+    <p>
+      The signs we witness—thinning ice, longer fire seasons, failing harvests—are symptoms of a deeper withdrawal. They are the visible language of a world responding to a turning away from its Author. To read these signs only as technical problems is to miss the book's primary claim: the crisis is a sign that God's sustaining hand has been lifted and that humanity must reckon with that spiritual fact.
+    </p>
+
+    <div class="inset" id="chapter-map">
+      <div class="inset-title">The structure ahead</div>
+      <ol>
+        <li>Babylon as an expression of national and cultural apostasy</li>
+        <li>How spiritual decay accelerates institutional and ecological tipping points</li>
+        <li>Why human remedies fail when the fountain of provision is cut off</li>
+        <li>How judgment, mercy, and the possibility of return are portrayed in prophetic imagery</li>
+      </ol>
+    </div>
+
+    <p>
+      The story told here is sobering because it places responsibility where it belongs. Systems fail because people first failed to acknowledge and honor the God who sustains them. This recognition is neither sentimental nor merely theological; it reframes every policy, every engineering fix, and every act of collective will in the light of dependence on God.
+    </p>
+  
+  </div>
+<hr>
+
+<footer class="copyright-footer">
+  © 2026 Raphael Asanti. All rights reserved.
+</footer>
+</body>
+</html>
